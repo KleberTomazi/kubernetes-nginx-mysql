@@ -15,7 +15,7 @@ Acesse o seguinte endereço:
 
 Execute a seguinte linha de comando:
 
-``` kubectl run -it --rm --image=mysql:5.6 --restart=Never mysql-client -- mysql -h db-service -p Aula@1234 ```
+``` kubectl run -it --rm --image=mysql:5.7 --restart=Never mysql-client -- mysql -h db-service -p Aula@1234 ```
 
 #### ! IMPORTANTE ! 
 
